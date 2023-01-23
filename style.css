@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #eee;
+}
+
+/* Jumbotron */
+.jumbotron .container {
+    background-image: url(img/jumbotron4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+    width: 100%;
+    display: flex;
+}
+
+.jumbotron .row {
+    align-items: center;
+    font-weight: bold;
+}
+
+/* Card */
+
+#men-outfit .card {
+    background-color: #eee;
+}
+
+/* Order & Contact */
+#order-contact {
+    margin-top: 60px;
+}
+
+section {
+    padding-top: 2rem;
+}
+
+/* Footer */
+footer {
+    background-color: #eee;
+}
